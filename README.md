@@ -1,4 +1,10 @@
-I'm a Full Stack Web Developer with experience building out both consumer and startup applications, including web, mobile and desktop applications with the latest technologies, mostly the MERN/MEVN stack.
+I'm a Full Stack Software Developer with experience building out both consumer and startup applications, including web, mobile and desktop applications with the latest technologies, mostly the MERN/MEVN stack.
+
+Mobile Technology Stack:
+Flutter 
+React-Native
+Android
+iOS 
 
 Front-end Technology Stack:
 Vue.JS, Vuex , Vue Router
@@ -11,6 +17,7 @@ CSS Preprocessors: SASS, LESS
 Bootstrap/Material UI/Tailwind/Styled Components
 
 Back Technology Stack:
+Laravel PHP
 Node.js with Express
 Ruby on Rails
 
