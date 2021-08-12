@@ -1,24 +1,25 @@
 I'm a Full Stack Software Developer with experience building out both consumer and startup applications, including web, mobile and desktop applications with the latest technologies.
 
 Mobile Technology Stack:
-Flutter,
-React-Native,
-Android,
-iOS 
+* Flutter
+* React-Native
+* Android
+* iOS 
 
 Front-end Technology Stack:
-React, React-Redux, React-Router,
-Next.js,
-GatsbyJS,
-Redux-Saga, Redux-Thunk,
-HTML5, CSS and ES6/7 JavaScript
+* React, React-Redux, React-Router
+* Next.js,
+* GatsbyJS,
+* Redux-Saga, Redux-Thunk
+* HTML5, CSS and ES6/7 JavaScript
 
-CSS Preprocessors: SASS, LESS
-Bootstrap/Material UI/Tailwind/Styled Components
+CSS Preprocessors: 
+* SASS, LESS
+* Bootstrap/Material UI/Tailwind/Styled Components
 
 Back Technology Stack:
-Node.js (Nest, Express),
-Ruby on Rails
+* Node.js (Nest, Express),
+* Ruby on Rails
 
 
 <!--
