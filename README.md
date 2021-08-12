@@ -7,11 +7,12 @@ Android,
 iOS 
 
 Front-end Technology Stack:
-React, React-Redux, React-Router
-Next.js
-GatsbyJS
-Redux-Saga, Redux-Thunk
-HTML5, CSS and ES6/7 JavaScript
+React, React-Redux, React-Router,
+Next.js,
+GatsbyJS,
+Redux-Saga, Redux-Thunk,
+HTML5, CSS and ES6/7 JavaScript,
+
 CSS Preprocessors: SASS, LESS
 Bootstrap/Material UI/Tailwind/Styled Components
 
