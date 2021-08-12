@@ -11,13 +11,13 @@ React, React-Redux, React-Router,
 Next.js,
 GatsbyJS,
 Redux-Saga, Redux-Thunk,
-HTML5, CSS and ES6/7 JavaScript,
+HTML5, CSS and ES6/7 JavaScript
 
 CSS Preprocessors: SASS, LESS
 Bootstrap/Material UI/Tailwind/Styled Components
 
 Back Technology Stack:
-Node.js with Nest, Express & Koa,
+Node.js (Nest, Express),
 Ruby on Rails
 
 
