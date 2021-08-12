@@ -16,7 +16,7 @@ CSS Preprocessors: SASS, LESS
 Bootstrap/Material UI/Tailwind/Styled Components
 
 Back Technology Stack:
-Node.js with Express & Koa
+Node.js with Nest, Express & Koa,
 Ruby on Rails
 
 
