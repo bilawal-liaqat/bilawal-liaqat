@@ -8,8 +8,8 @@ Mobile Technology Stack:
 
 Front-end Technology Stack:
 * React.js, React-Redux, React-Router
-* Next.js,
-* GatsbyJS,
+* Next.js
+* GatsbyJS
 * Redux-Saga, Redux-Thunk
 * HTML5, CSS and ES6/7 JavaScript
 
