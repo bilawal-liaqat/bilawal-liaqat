@@ -1,4 +1,4 @@
-I'm a Full Stack Software Developer with experience building out both consumer and startup applications, including web, mobile and desktop applications with the latest technologies, mostly the MERN/MEVN stack.
+I'm a Full Stack Software Developer with experience building out both consumer and startup applications, including web, mobile and desktop applications with the latest technologies.
 
 Mobile Technology Stack:
 Flutter 
